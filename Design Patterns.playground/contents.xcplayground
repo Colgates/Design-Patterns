@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Behavioral - Command'/>
+        <page name='Behavioral - Iterator'/>
+        <page name='Behavioral - Observer'/>
+        <page name='Behavioral - State'/>
+        <page name='Behavioral - Strategy'/>
+        <page name='Behavioral - Template Method'/>
+        <page name='Behavioral - Chain Of Responsibility'/>
+        <page name='Behavioral - Mediator'/>
+        <page name='Behavioral - Memento'/>
+        <page name='Behavioral - Visitor'/>
+        <page name='Creational - Abstract Factory'/>
+        <page name='Creational - Factory Method'/>
+        <page name='Creational - Simple Factory'/>
+        <page name='Creational - Singleton'/>
+        <page name='Creational - Builder'/>
+        <page name='Creational - Prototype'/>
+        <page name='Structural - Adapter'/>
+        <page name='Structural - Composite'/>
+        <page name='Structural - Decorator'/>
+        <page name='Structural - Facade'/>
+        <page name='Structural - Proxy'/>
+        <page name='Structural - Bridge'/>
+        <page name='Structural - Flyweight'/>
+    </pages>
+</playground>
